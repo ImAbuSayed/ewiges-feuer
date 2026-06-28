@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ewiges-feuer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ewiges Feuer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ewiges-feuer/) |
+| **Get License** | [Music Rights & Licensing for Ewiges Feuer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ewiges-feuer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir fahr'n durch die Nacht, spürst du dieses ewige Feuer?
+> Vollgas im Benz, Babe, du bist mein Abenteuer
+> Komm, wir fliegen durch die Stadt, ich will nur noch dich berühren
+> Lass uns heute Grenzen brechen, lass uns diese Hitze spüren
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
