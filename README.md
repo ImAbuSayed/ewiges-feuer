@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ewiges-feuer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Ewiges Feuer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ewiges-feuer/) |
+| **Get License** | [Obtain a Music License for Ewiges Feuer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ewiges-feuer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a3607f8c4672106f3727d1c1911a20c23f93ddc9d6791f9139df89ffba66f72c` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
